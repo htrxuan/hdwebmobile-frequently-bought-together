@@ -1,0 +1,16 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "hdfbt/frequently-bought-together",
+	"title": "Frequently Bought Together",
+	"description": "Shows an Amazon-style \"frequently bought together\" widget for the current product, letting shoppers add several related products to cart in one click.",
+	"category": "woocommerce",
+	"keywords": [ "frequently bought together", "bundle", "cross-sell", "upsell", "WooCommerce" ],
+	"textdomain": "hdwebmobile-frequently-bought-together",
+	"usesContext": [ "postId" ],
+	"supports": {
+		"html": false,
+		"align": false
+	},
+	"editorScript": "hdfbt-frequently-bought-together-editor"
+}
