@@ -29,6 +29,9 @@ HDWebmobile Frequently Bought Together shows a widget on the product page with t
 * Manual curation only — you pick up to 4 companion products per product yourself; there's no automatic "customers who bought this also bought" suggestion engine based on order history in this version
 * No bundle-discount pricing — every item is added at its normal price; if you want a bundle with its own discounted price, see our HDWebmobile Mix & Match Bundles plugin instead
 
+= Enjoying this plugin? =
+If it helps your site, please consider [leaving an honest review on WordPress.org](https://wordpress.org/support/plugin/hdwebmobile-frequently-bought-together/reviews/#new-post) -- it helps other WordPress users find it. Found a problem or have an idea? Please [open a support topic](https://wordpress.org/support/plugin/hdwebmobile-frequently-bought-together/) first so it can be fixed.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/hdwebmobile-frequently-bought-together` directory, or install the plugin through the WordPress plugins screen directly.
