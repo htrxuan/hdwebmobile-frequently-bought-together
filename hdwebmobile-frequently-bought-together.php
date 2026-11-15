@@ -4,7 +4,7 @@
  * Plugin Name: HDWebmobile Frequently Bought Together
  * Plugin URI: https://hdwebmobile.com/plugins/hdwebmobile-frequently-bought-together/
  * Description: An Amazon-style "frequently bought together" widget for the product page. Add several related products to cart in one click via a single WooCommerce Store API batch request.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: htrxuan - Han Tran
  * Author URI: https://hdwebmobile.com/
  * License: GPLv2 or later
@@ -22,7 +22,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-define('HDFBT_VERSION', '1.0.0');
+define('HDFBT_VERSION', '1.0.1');
 define('HDFBT_PLUGIN_FILE', __FILE__);
 define('HDFBT_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('HDFBT_PLUGIN_URL', plugin_dir_url(__FILE__));

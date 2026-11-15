@@ -5,7 +5,7 @@ Tags: woocommerce, frequently bought together, cross-sell, upsell, bundle
 Requires at least: 6.9
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires Plugins: woocommerce
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -63,6 +63,9 @@ Shoppers can uncheck anything they don't want — the total updates instantly (S
 4. The Mini-Cart updating immediately after adding all checked items to the cart.
 
 == Changelog ==
+
+= 1.0.1 =
+* The WooCommerce > HDWebmobile Overview page now has a short introduction to Store Guardian, a separate paid plugin that test-buys from your checkout every hour. It is hidden once Store Guardian is active. No changes to this plugin's own features.
 
 = 1.0.0 =
 * Initial release: single-batch-request add-to-cart, admin companion-product picker reusing WooCommerce's own product search, Gutenberg block for the single-product template, classic-theme support via the classic add-to-cart hook.
